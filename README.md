@@ -14,5 +14,5 @@ following figure shows the UI of the software <br>
 
 ### REQUIERMENTS 
 * java runtime environment (JRE)
-* wamp or xamp server 
+* wamp or xamp server (_tested_)
 
